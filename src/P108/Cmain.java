@@ -10,11 +10,8 @@ public class Cmain {
 		UserClass startProgram = new UserClass();
 		
 		// the function to start the frames and build first frame ( login frame )
-<<<<<<< HEAD
 		startProgram.createFrame();
-=======
-		startProgram.createFram();
->>>>>>> efe58b9d069888b12cb918eca2d4b20ca6151ae2
+
 	}
 
 }
