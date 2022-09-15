@@ -25,7 +25,7 @@ public class UserClass implements ActionListener
 	// button to start checking the username and password and go on
 	private static JButton login;
 	
-	public void createFrame()
+	public void createFram()
 	{
 		//fonts we use at labeles
 		Font f1 = new Font("MV Boli",Font.BOLD,15);
